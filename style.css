@@ -1,0 +1,23 @@
+html {
+    max-width: 70ch;
+    padding: 3em 1em;
+    margin: auto;
+}
+
+body {
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    margin: 0;
+}
+
+.week:hover {
+    background-color: burlywood;
+
+}
+  
